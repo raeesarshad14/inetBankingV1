@@ -386,3 +386,9 @@
 2021-01-08 11:18:05,981 - ebanking -INFO - Passsword is provided
 2021-01-08 11:18:11,320 - ebanking -INFO - providing customer details....
 2021-01-08 11:18:21,270 - ebanking -INFO - test case passed....
+2021-01-08 12:53:06,184 - ebanking -INFO - URL is opened
+2021-01-08 12:53:06,310 - ebanking -INFO - Entered Username
+2021-01-08 12:53:06,422 - ebanking -INFO - Entered Password
+2021-01-08 12:53:16,137 - ebanking -INFO - User name is provided
+2021-01-08 12:53:16,359 - ebanking -INFO - Passsword is provided
+2021-01-08 12:53:27,029 - ebanking -INFO - providing customer details....
