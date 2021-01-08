@@ -375,3 +375,14 @@
 2021-01-07 17:03:24,300 - ebanking -INFO - Entered Username
 2021-01-07 17:03:24,371 - ebanking -INFO - Entered Password
 2021-01-07 17:03:25,554 - ebanking -INFO - Login test Passed
+2021-01-08 11:17:34,249 - ebanking -INFO - URL is opened
+2021-01-08 11:17:34,449 - ebanking -INFO - Entered Username
+2021-01-08 11:17:34,530 - ebanking -INFO - Entered Password
+2021-01-08 11:17:35,982 - ebanking -INFO - Login test Passed
+2021-01-08 11:17:44,541 - ebanking -INFO - user name provided
+2021-01-08 11:17:44,615 - ebanking -INFO - password provided
+2021-01-08 11:17:48,861 - ebanking -INFO - Login passed
+2021-01-08 11:18:05,915 - ebanking -INFO - User name is provided
+2021-01-08 11:18:05,981 - ebanking -INFO - Passsword is provided
+2021-01-08 11:18:11,320 - ebanking -INFO - providing customer details....
+2021-01-08 11:18:21,270 - ebanking -INFO - test case passed....
